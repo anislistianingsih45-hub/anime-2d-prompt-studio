@@ -1,0 +1,9 @@
+{
+  "name": "anime-2d-prompt-studio",
+  "version": "1.0.0",
+  "description": "Create structured anime, manga, and 2D animation prompts with consistent characters, camera direction, and scene timing.",
+  "author": {
+    "name": "Your Name"
+  },
+  "license": "MIT"
+}
